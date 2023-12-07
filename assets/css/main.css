@@ -3388,12 +3388,14 @@ input, select, textarea {
 		#intro h1 {
 			font-size: 5rem;
 			line-height: 1;
+			margin-top: 5rem;
 		}
 
 		#intro p {
 			font-size: 1.25rem;
 			font-style: italic;
 			margin-top: -0.25rem;
+			margin-bottom: 10rem;
 			text-align: center;
 		}
 
